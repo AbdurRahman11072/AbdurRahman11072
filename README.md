@@ -1,5 +1,7 @@
 ## 👋 Hey there, I'm Abdur Rahman!
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MD%20Abdur%20Rahman%20&theme=burnt-neon&hide_border=true)](https://git.io/streak-stats)
+
 ### 🚀 About Me
 I'm a passionate React web app developer currently studying Computer Science and Engineering at the University of Global Village. My journey in the vast world of web development has equipped me with knowledge in React, Tailwind CSS, and Framer Motion.
 
