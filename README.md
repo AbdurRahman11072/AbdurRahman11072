@@ -1,7 +1,6 @@
 ## <h1 align="center"> 👋 Hey there, I'm Abdur Rahman!
 </h1>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbdurRahman11072&theme=midnight-purple&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+<div align="center"><a></a>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbdurRahman11072&theme=midnight-purple&hide_border=true&mode=weekly)](https://git.io/streak-stats)</a></div>
 
 ### 🚀 About Me
 I'm a passionate React web app developer currently studying Computer Science and Engineering at the University of Global Village. My journey in the vast world of web development has equipped me with knowledge in React, Tailwind CSS, and Framer Motion.
