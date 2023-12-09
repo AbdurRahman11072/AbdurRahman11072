@@ -8,7 +8,7 @@
 
 ### <h1 align="center">---Technology I know---</h1>
 
-<a>![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdurRahman11072&theme=radical)</a> 
+<a><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdurRahman11072&theme=radical"/></a> 
 <a>![]()</a>
 <div align="center"></div>
 
