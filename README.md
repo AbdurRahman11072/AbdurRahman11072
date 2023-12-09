@@ -27,7 +27,7 @@
 
   ### <h1 marginTop="10" align="center"> Stats & Repo Language</h1>
 <p align="center">  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdurRahman11072&theme=algolia" width="48%" height="300" alt="GitHub Stats">
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdurRahman11072&theme=algolia" width="48%" height="300" alt="GitHub Stats">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdurRahman11072&theme=algolia" width="48%" height="300" alt="Repos per Language">
 </p>
 
