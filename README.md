@@ -1,4 +1,4 @@
-## <h1 align="center"> 👏Hi , I'm Abdur Rahman</h1>
+
 <img src="https://raw.githubusercontent.com/AbdurRahman11072/AbdurRahman11072/main/Snapshot_1.png">
 
 ### <h1 align="center">👨‍⚖️ About Me 👨‍⚖️</h1>
