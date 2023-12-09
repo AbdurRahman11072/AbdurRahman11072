@@ -8,7 +8,7 @@
 
 ### <h1 align="center">---Technology I know---</h1>
 <a align="center">
-  <img margin="auto src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,firebase,nodejs,mongo,express,vscode,figma"/>
+  <img margin="auto" src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,firebase,nodejs,mongo,express,vscode,figma"/>
 </a>
 
 <p align="center">
