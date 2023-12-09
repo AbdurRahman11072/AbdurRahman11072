@@ -8,4 +8,4 @@
 
 <a>![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdurRahman11072&theme=radical)</a> 
 <a>![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdurRahman11072&theme=radical)</a>
-<div align="center"><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=AbdurRahman11072%20&theme=cobalt2" alt="GitHub Streak" /></a></div>
+<div align="center"><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=AbdurRahman11072&theme=outrun" alt="GitHub Streak" /></a></div>
