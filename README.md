@@ -14,7 +14,7 @@ I'm a passionate **Full-Stack Web Developer** on a journey to master the art of 
 - 🌱 Learning: **Microservices architecture, Cloud deployment, and Advanced React patterns**
 - 💼 Open to: **Freelance projects, collaborations, and full-time opportunities**
 - 🎯 Goal: **Becoming a proficient full-stack developer who creates impactful solutions**
-- 📍 Based in: **Savar, Dhaka, Bangladesh**
+- 📍 Based in: **Goila, Agailjhara, Barishal, Bangladesh**
 - ⚡ Fun fact: **I solve complex problems one commit at a time!**
 
 ---
