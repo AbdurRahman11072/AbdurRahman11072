@@ -1,6 +1,6 @@
 <div align="center">
 
-# `<Hi ! MD Abdur Rahman />`
+# `<Hi! I'm MD Abdur Rahman />`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+%2B+TypeScript+Specialist;Building+Scalable+Web+Solutions;Open+to+Freelance+%26+Collaborations" alt="Typing SVG" />
 
