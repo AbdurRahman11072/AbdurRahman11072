@@ -106,8 +106,8 @@ A complete university bus scheduling and management system for students and admi
 | Feature     | Details                           |
 | ----------- | --------------------------------- |
 | 🗺️ Routes   | Bus route & stop management       |
-| 🎫 Booking  | Seat reservation system           |
-| 📅 Schedule | Real-time bus schedule tracking   |
+| 🎫 Booking  | Bus reservation system     |
+| 📅 Schedule | Demo Real-time bus schedule tracking only shows the map based on the IP address   |
 | 🔐 Auth     | Student & admin role-based access |
 
 - ✅ Bus route and stop management
